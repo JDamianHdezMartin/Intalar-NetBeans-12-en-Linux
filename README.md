@@ -1,0 +1,1 @@
+# Intalar-NetBeans-12-en-Linux
